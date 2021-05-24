@@ -1,0 +1,12 @@
+{
+  "name": "test-async-await",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ming-der Wang",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "request": "^2.88.2",
+    "require": "^2.4.20"
+  }
+}
